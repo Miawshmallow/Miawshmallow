@@ -15,9 +15,9 @@
 <td style="text-align:center;"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=miawshmallow&show_icons=true&locale=pt-BR&layout=default&theme=radical&count_private=true" alt="miawshmallow" /></td><td class="tabletd1" style="text-align:center;"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Miawshmallow&show_icons=true&locale=pt-BR&theme=radical&count_private=true" alt="miawshmallow" /></td></tr>
 <tr><td colspan="2"><center>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Miawshmallow/Miawshmallow/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Miawshmallow/Miawshmallow/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Miawshmallow/Miawshmallow/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 </center></td></tr>
 </table>
